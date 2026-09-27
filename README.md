@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Temiloluwa (Lolu) 👋
 
-<!--
-**L9LU/L9LU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Engineering student at the **University of Lagos** (BME '30), interested in the intersection of **AI/ML and healthcare**.
 
-Here are some ideas to get you started:
+- 🔬 Currently exploring machine learning applications in predictive maintenance and health-tech
+- 🛠️ Building a teacher verification platform ("LinkedIn for Teachers") for a hackathon
+- 📚 Working through a self-study Python/ML roadmap
+- 🏫 Assistant Course Representative, BME Department, UNILAG
+- 🤝 Active in BMESA (Biomedical Engineering Students' Association)
+- 🌱 Interested in nanotechnology applications in cancer drug delivery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn`
+
+## Currently Learning
+Python for ML, applied data science
+
+## Let's Connect
+- LinkedIn: [linkedin.com/in/temiloluwaowoade](https://www.linkedin.com/in/temiloluwaowoade)
+- Email: owoadetemi3@gmail.com
+
+---
+⭐️ Feel free to check out my pinned repositories below!
